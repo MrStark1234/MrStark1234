@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Singhal</h1>
+<div align="center"> <img src= "https://drive.google.com/file/d/17taHVBl1RkqjZ8cExfyU-dw5ItaHmqTT/view" </div>
 <h3 align="center">A Highly Motivated and Passionate Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrstark1234&label=Profile%20views&color=0e75b6&style=flat" alt="mrstark1234" /> </p>
