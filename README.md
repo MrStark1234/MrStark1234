@@ -2,6 +2,7 @@
 <div align="center" alt="Coding"> <img src= "https://github.com/MrStark1234/MrStark1234/blob/main/myPic.png" </div>
 <h3 align="center">A Highly Motivated and Passionate Full Stack Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrstark1234&label=Profile%20views&color=0e75b6&style=flat" alt="mrstark1234" /> </p>
 
 - 🌱 I’m currently learning **Data Structures & Algorithm**
