@@ -35,5 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrstark1234&" alt="mrstark1234" /></p>
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/MrStark1234/MrStark1234/blob/output/github-contribution-grid-snake.svg)
+
